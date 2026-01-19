@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student studying at IIMS College, affiliated to Taylors University.<br>I am currently working on some project related to Networking and stuffs.<br>I have basic knowledge of Python, Web Development and UI/UX.<br>I dont think that this is enough to grow I have lots to explore.
+I’m a Bachelor of Computer Science (Hons) student passionate about blending technology with digital marketing. My academic focus is on programming and software development, but I’m equally driven by creating customer-centric solutions and optimizing digital experiences.I aim to bridge the gap between tech and business by leveraging data-driven insights, building user-friendly applications, and delivering exceptional customer engagement. Whether it’s through coding, analyzing marketing trends, or improving customer support, I’m committed to adding value to both businesses and their audiences.
 
 
 ## 🌐 Socials:
